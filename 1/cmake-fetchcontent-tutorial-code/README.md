@@ -13,3 +13,6 @@ cmake ../cmake-fetchcontent-tutorial-code
 cmake --build .
 ./src/example_exe # or ./src/Debug/example_exe if using Visual Studio
 ```
+
+#changes
+added part of code to check if triangles are colidin and in addition this is wisualizeted on gui app
